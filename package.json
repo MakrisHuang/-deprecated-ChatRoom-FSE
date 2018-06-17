@@ -1,0 +1,25 @@
+{
+  "name": "chat-room-fse",
+  "version": "1.0.0",
+  "description": "The pre-tasks for course 18-652",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakrisHuang/ChatRoom-FSE.git"
+  },
+  "keywords": [
+    "chatroom",
+    "fse",
+    "web",
+    "real-time-messaging"
+  ],
+  "author": "Makris Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakrisHuang/ChatRoom-FSE/issues"
+  },
+  "homepage": "https://github.com/MakrisHuang/ChatRoom-FSE#readme"
+}
