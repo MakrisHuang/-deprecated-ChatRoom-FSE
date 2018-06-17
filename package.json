@@ -11,6 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/MakrisHuang/ChatRoom-FSE.git"
   },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
   "keywords": [
     "chatroom",
     "fse",
