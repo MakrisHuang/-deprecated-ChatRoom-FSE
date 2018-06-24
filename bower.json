@@ -1,0 +1,27 @@
+{
+  "name": "chat-room-fse",
+  "description": "The pre-tasks for course 18-652",
+  "main": "index.js",
+  "authors": [
+    "Makris Huang"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatroom",
+    "fse",
+    "web",
+    "real-time-messaging"
+  ],
+  "homepage": "https://github.com/MakrisHuang/ChatRoom-FSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "4.1.1"
+  }
+}
